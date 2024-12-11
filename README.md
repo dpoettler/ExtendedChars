@@ -68,5 +68,8 @@ void loop() {
 String ExtendedChars::extendChars(const String &str)
 Converts a UTF-8 string to a format that can be displayed using the Adafruit GFX library with extended characters.
 
+## Contributing
+Update the already supported fonts or create your own with the [Adafruit GFX Font Customizer](https://tchapi.github.io/Adafruit-GFX-Font-Customiser/)
+
 ## License
 This library is licensed under the GPL v3 License.
