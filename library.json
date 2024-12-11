@@ -9,7 +9,7 @@
     ],
     "description": "ExtendedChars is an extension library for the Adafruit GFX library adding support for UTF8 characters.",
     "keywords": ["display", "UTF8", "Adafruit", "GFX"],
-    "license": "Apache-2.0",
+    "license": "GPL-3.0",
     "repository": {
       "type": "git",
       "url": "https://github.com/dpoettler/ExtendedChars"
